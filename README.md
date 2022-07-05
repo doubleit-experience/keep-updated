@@ -10,6 +10,9 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 
 #### 📚 Materiais (em breve 🚧)
 
+- IDE (Integrated Development Environment)
+    - [VS Code](./topics/ides/vscode.md)
+
 ---
 
 Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
