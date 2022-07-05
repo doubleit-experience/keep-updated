@@ -28,6 +28,7 @@
 - [Extension API](https://code.visualstudio.com/api) - Visual Studio Code is built with extensibility in mind. From the UI to the editing experience, almost every part of VS Code can be customized and enhanced through the Extension API.
 - [Top 40+ VSCode Extensions for Developers in 2022](https://www.tabnine.com/blog/top-vscode-extensions/) - Here are 40+ VS Code extensions – curated, sorted, and categorized to help you increase your productivity and make you more effective as a developer.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful Visual Studio Code packages and resources.
+
 ---
 
 [🏠 Voltar para o início](./../../README.md)
