@@ -99,3 +99,13 @@ Ensinar ainda é a melhor forma de aprender!
 - Experiências de vida (maturidade) também contribuem muito
 - Busque ter um plano de desenvolvimento da sua carreira (independente do emprego atual)
 - _No fim do dia, o que importa não é apenas o salário e o cargo e sim ter propósito e gostar do que faz_
+
+---
+
+### Mais referências:
+- [7 Learning Habits for Developers: Reach Skill Goals in Less Time](sitepoint.com/learning-habits-for-developers/?utm_source=rss)
+    - > As a developer, it’s important to always be learning. The industry is constantly changing, and if you don’t keep up, you’ll quickly fall behind. In this blog post, we will discuss seven learning habits that every developer should master. These habits will help you stay current in your field, and continue to grow as a professional!
+
+---
+
+[🏠 Voltar para o início](./../../README.md)

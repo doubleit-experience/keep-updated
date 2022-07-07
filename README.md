@@ -6,7 +6,9 @@
 
 Esse repositório contém dicas para estudos e atualização no mercado de desenvolvimento. Além disso, contém materiais úteis (curados) para estudo separados por tema. Fique de olho 👀
 
-#### 🤩 Dicas (em breve 🚧)
+#### 🤩 Dicas 
+- [Para estudos](./topics/intro/tips.md)
+- [Para iniciantes](./topics/intro/tips-begginers.md)
 
 #### 📚 Materiais (🚧)
 
