@@ -8,7 +8,7 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 
 #### 🤩 Dicas 
 - [Para estudos](./topics/intro/tips.md)
-- [Para iniciantes](./topics/intro/tips-begginers.md)
+- [Para iniciantes](./topics/intro/tips-beginners.md)
 
 #### 📚 Materiais (🚧)
 
