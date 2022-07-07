@@ -90,7 +90,8 @@ Ensinar ainda é a melhor forma de aprender!
 - Não adianta sair estudando tudo o que aparece, senioridade demanda mais do que só a parte técnica
 - _Você pode chegar mais rápido, mas não cortar o caminho_
 
-#### Siga seu ritmo
+#### Entenda seu perfil
+
 - Entenda seus pontos fortes e fracos e o que te motiva
 - Aceitar passar por "pontos baixos"
 - Saiba procurar ajuda
