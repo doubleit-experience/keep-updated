@@ -19,6 +19,6 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 
 Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
 
-[Linkedin](https://br.linkedin.com/company/doubleit) |
-[Instagram](https://www.instagram.com/doubleitconsultoria/?hl=en) |
-[Site](https://www.doubleit.com.br/) | [Canal no YT](https://www.youtube.com/channel/UCy7BKjTDyE5I-lQGP0UScXQ)
+[Linkedin](https://br.linkedin.com/company/doubleit) -
+[Instagram](https://www.instagram.com/doubleitconsultoria/?hl=en) - 
+[Site](https://www.doubleit.com.br/) - [Canal no YT](https://www.youtube.com/channel/UCy7BKjTDyE5I-lQGP0UScXQ)
