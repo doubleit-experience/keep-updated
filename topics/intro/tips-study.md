@@ -116,6 +116,10 @@ Ensinar ainda é a melhor forma de aprender!
 - [Coursera - Aprendendo a aprender: poderosas ferramentas mentais para ajudá-lo no domínio de temas difíceis](https://www.coursera.org/learn/learning-how-to-learn)
 
     TLDR: Curso gratuito com explicações sobre a neurociência e com técnicas para otimizar o aprendizado
+
+
+
+    
 ---
 
 [🏠 Voltar para o início](./../../README.md)
