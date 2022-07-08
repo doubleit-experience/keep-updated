@@ -103,7 +103,7 @@ Ensinar ainda é a melhor forma de aprender!
 
 ---
 
-### Mais referências:
+### 🚀 Vá além!
 - [7 Learning Habits for Developers: Reach Skill Goals in Less Time](sitepoint.com/learning-habits-for-developers/)
     
     TLDR: As a developer, it’s important to always be learning. The industry is constantly changing, and if you don’t keep up, you’ll quickly fall behind. 75% of respondents learn a new technology at least every few months or once a year.
@@ -113,6 +113,9 @@ Ensinar ainda é a melhor forma de aprender!
     TLDR:
     Ultralearning is a learning approach developed by Scott Young that offers helpful guidelines on how to structure learning projects outside of formal education. In this article, we’ll provide you with 3 research-based learning strategies that are key to every learning endeavor. We’ve also introduced you to the Ultralearing Framework.
 
+- [Coursera - Aprendendo a aprender: poderosas ferramentas mentais para ajudá-lo no domínio de temas difíceis](https://www.coursera.org/learn/learning-how-to-learn)
+
+    TLDR: Curso gratuito com explicações sobre a neurociência e com técnicas para otimizar o aprendizado
 ---
 
 [🏠 Voltar para o início](./../../README.md)
