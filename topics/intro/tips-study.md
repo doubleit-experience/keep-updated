@@ -104,8 +104,14 @@ Ensinar ainda é a melhor forma de aprender!
 ---
 
 ### Mais referências:
-- [7 Learning Habits for Developers: Reach Skill Goals in Less Time](sitepoint.com/learning-habits-for-developers/?utm_source=rss)
-    - > As a developer, it’s important to always be learning. The industry is constantly changing, and if you don’t keep up, you’ll quickly fall behind. In this blog post, we will discuss seven learning habits that every developer should master. These habits will help you stay current in your field, and continue to grow as a professional!
+- [7 Learning Habits for Developers: Reach Skill Goals in Less Time](sitepoint.com/learning-habits-for-developers/)
+    
+    TLDR: As a developer, it’s important to always be learning. The industry is constantly changing, and if you don’t keep up, you’ll quickly fall behind. 75% of respondents learn a new technology at least every few months or once a year.
+
+- [How to Learn Anything: A Beginner’s Guide to Ultralearning](https://www.sitepoint.com/how-to-learn-anything/)
+
+    TLDR:
+    Ultralearning is a learning approach developed by Scott Young that offers helpful guidelines on how to structure learning projects outside of formal education. In this article, we’ll provide you with 3 research-based learning strategies that are key to every learning endeavor. We’ve also introduced you to the Ultralearing Framework.
 
 ---
 
