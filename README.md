@@ -17,6 +17,16 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 
 ---
 
+## 💪 Contribuindo
+
+Quer solicitar ajuda com um tema? Tem uma referência boa para estudo? Quer contribuir com seus conhecimentos?
+
+### 1. Acesse no [GitHub Discutions](https://github.com/doubleit-experience/keep-updated/discussions) desse repo e contribua!
+
+### 2. Faça um PR com sua sugestão de conteúdo!
+
+---
+
 Quer ficar por dentro das iniciativas de educação e treinamentos da DoubleIT? Nos acompanhe nas redes sociais!
 
 [Linkedin](https://br.linkedin.com/company/doubleit) -
