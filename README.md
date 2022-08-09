@@ -15,6 +15,11 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 - IDE (Integrated Development Environment)
     - [VS Code](./topics/ides/vscode.md)
 
+- Web: Starting
+    - HTML (🚧)
+    - CSS (🚧)
+    - JS (🚧)
+    - [Browser](./topics/web-start/browser.md)
 ---
 
 ## 💪 Contribuindo
